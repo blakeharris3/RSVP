@@ -11,7 +11,7 @@ class EventContainer extends Component {
           description: '',
           _id: ''
         },
-        showEditModal: false
+        showEditModal: false 
       }
     }
 }
