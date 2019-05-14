@@ -8,7 +8,6 @@ const HeaderApp = () => {
   return (
     <Header>
       <ul>
-        <li><Link to="/">Login</Link></li>
         <li><Link to="/events">Events</Link></li>
       </ul>
     </Header>
